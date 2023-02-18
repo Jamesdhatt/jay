@@ -1,0 +1,2 @@
+# jay
+Exploring technology 
